@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+SHBET – Thế giới casino trong tay bạn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`SHBET <https://dylan95.com/>`_ - thành viên của tập đoàn OKVIP, ra mắt vào năm 2019, đã nhanh chóng trở thành một cái tên đáng tin cậy trong ngành giải trí trực tuyến. SHBET nổi bật với giao diện hiện đại, dễ sử dụng và ứng dụng di động mượt mà, cho phép người chơi trải nghiệm bất kỳ lúc nào, từ bất kỳ thiết bị nào. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+SHBET cung cấp các chương trình khuyến mãi hấp dẫn như tiền thưởng nạp đầu và bảo hiểm thua hàng ngày, cùng với tỷ lệ cược và hoàn trả cạnh tranh trong các trò chơi thể thao, casino và sòng bạc trực tiếp. Sự hài lòng của người chơi được phản ánh qua phản hồi tích cực về giao dịch mượt mà và dịch vụ hỗ trợ chuyên nghiệp.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 59/1c ấp Nam Lân, Bà Điểm, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0906505447. 
 
-.. toctree::
+Email: info@shbetdylan95.com. 
 
-   usage
-   api
+Website: https://dylan95.com/ 
+
+#shbet #nhacaishbet #trangchushbet #dangkyshbet #linkshbet
